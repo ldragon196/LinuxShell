@@ -1,0 +1,5 @@
+# Permisson executable
+$chmod u+x file_name.sh
+
+# 74 Bash Operators
+https://linuxhint.com/bash_operator_examples/
